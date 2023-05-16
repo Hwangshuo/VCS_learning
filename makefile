@@ -56,5 +56,5 @@ clean:
 	rm -rf  novas* \
 	rm -rf  *.fsdb \
 	rm -rf  *.vdb \
-	rm -rf temp
-
+	rm -rf 	temp
+	rm -rf  urgReport
