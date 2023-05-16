@@ -55,5 +55,6 @@ clean:
 	rm -rf  verdiLog \
 	rm -rf  novas* \
 	rm -rf  *.fsdb \
-	rm -rf  *.vdb
+	rm -rf  *.vdb \
+	rm -rf temp
 
